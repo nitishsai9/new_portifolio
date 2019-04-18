@@ -6,7 +6,7 @@
 
 <h3 align="center">Nitish sai Kommaraju</h3>
 <p align="center">
-  Hey i am kommaraju Nitish sai A web Developer | Flutter Developer | ML beginner |Cyber securithy Enthusiast
+  Hey I am Kommaraju Nitish Sai. A web Developer | Flutter Developer | ML beginner |Cyber securithy Enthusiast
   <br>
   <br>
 </p>
